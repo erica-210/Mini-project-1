@@ -1,0 +1,16 @@
+
+.lesson {
+    background-color: #F7E898;
+}
+/* Sets header design */
+.header {
+    height: 100px;
+    width: 99%;
+    border: 10px solid #E58746;
+    background-color: #372723;
+}
+
+.header h1 .Connected {
+    color: #F45252;
+}
+
